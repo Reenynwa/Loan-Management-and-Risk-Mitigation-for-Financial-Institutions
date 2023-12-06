@@ -61,3 +61,5 @@ Week 4: (22/12/2023 – 31/12/2023)
 • Operational Efficiency Evaluation: Identifying areas of improvement in the loan application and approval process. 
 
 • Results Interpretation, Visualization, and Report writing
+
+
